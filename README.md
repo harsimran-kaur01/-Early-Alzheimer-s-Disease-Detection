@@ -164,11 +164,6 @@ If you use this code, please cite the accompanying paper and the DementiaBank Pi
 
 > Becker, J. T., Boller, F., Lopez, O. L., Saxton, J., & McGonigle, K. L. (1994). The natural history of Alzheimer's disease: description of study cohort and accuracy of diagnosis. *Archives of Neurology, 51*(6), 585-594.
 
-
-## License
-
-TODO: add a license (e.g. MIT for the code). Note that the DementiaBank data has its own terms of use.
-
 ## Acknowledgements
 
 DementiaBank / TalkBank for the Pitt corpus; the maintainers of Praat/Parselmouth, spaCy, scikit-learn, XGBoost and SHAP.
